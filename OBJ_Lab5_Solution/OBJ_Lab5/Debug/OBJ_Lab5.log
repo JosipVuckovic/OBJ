@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\korisnik\source\github\obj\obj_lab5_solution\obj_lab5\source.cpp(11): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\korisnik\source\github\obj\obj_lab5_solution\obj_lab5\source.cpp(21): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\korisnik\source\github\obj\obj_lab5_solution\obj_lab5\source.cpp(29): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  OBJ_Lab5.vcxproj -> C:\Users\Korisnik\source\GitHub\OBJ\OBJ_Lab5_Solution\Debug\OBJ_Lab5.exe
